@@ -1,0 +1,13 @@
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\bin\Debug\ControlDespachoCTP.exe.config
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\bin\Debug\ControlDespachoCTP.exe
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\bin\Debug\ControlDespachoCTP.pdb
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.csprojResolveAssemblyReference.cache
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.Form1.resources
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.Menucs.resources
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.Properties.Resources.resources
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.Revision.resources
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.csproj.GenerateResource.Cache
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.exe
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.pdb
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.Historico_Revision.resources
+C:\Users\jordan.donoso\Documents\Visual Studio 2017\Projects\ControlDespachoCTP\ControlDespachoCTP\obj\Debug\ControlDespachoCTP.csproj.ResolveComReference.cache
